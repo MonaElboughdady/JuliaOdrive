@@ -1,2 +1,2 @@
 # JuliaOdrive
-A guide to how to use odrive commands using Julia programming language.
+How to use odrive commands using Julia programming language without the need of odrivetool.
